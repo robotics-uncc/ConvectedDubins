@@ -1,6 +1,6 @@
 # Convected Dubins C++ Library
 
-Convected Dubins paths are time-optimal paths planned in a known, steady, uniform wind. The algorithm is based on the paper by Lazlo Techy and Craig Woolsey referenced below. 
+Convected Dubins paths are time-optimal paths planned in a known, steady, uniform wind. The algorithm is based on the paper by L. Techy and C. Woolsey referenced below. 
 
 <p align="center"> 
 <img src="http://arturwolek.com/img/dubins.png" width="300">
