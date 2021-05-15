@@ -3,7 +3,7 @@
 Convected Dubins paths are time-optimal paths planned in a known, steady, uniform wind. The algorithm is based on the paper by L. Techy and C. Woolsey referenced below. 
 
 <p align="center"> 
-<img src="http://arturwolek.com/img/dubins.png" width="300">
+<img src="https://raw.githubusercontent.com/robotics-uncc/ConvectedDubins/master/ConvectedDubins.png" width="300">
 </p>
 
 ## Dependencies:
@@ -25,4 +25,4 @@ Convected Dubins paths are time-optimal paths planned in a known, steady, unifor
 https://doi.org/10.2514/1.44580
 
 ## Contact:
-Artur Wolek, wolek@umd.edu
+Artur Wolek, awolek@uncc.edu
